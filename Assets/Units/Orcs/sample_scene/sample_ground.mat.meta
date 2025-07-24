@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7f932383ca06a84b8d3746de0696057
+timeCreated: 1482349611
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78906
+  packageName: Toon RTS Units - Orcs
+  packageVersion: 1.3.1
+  assetPath: Assets/Toon_RTS/Orcs/sample_scene/sample_ground.mat
+  uploadId: 429219

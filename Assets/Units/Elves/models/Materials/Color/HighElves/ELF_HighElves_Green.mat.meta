@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1b02dd497544a640a8ec5365c369900
+timeCreated: 1541551539
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132685
+  packageName: Toon RTS Units - Elves
+  packageVersion: 1.1
+  assetPath: Assets/Toon_RTS/Elves/models/Materials/Color/HighElves/ELF_HighElves_Green.mat
+  uploadId: 372182

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf7c8d241177ca64db6d64c08a7e7be4
+timeCreated: 1541551609
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132685
+  packageName: Toon RTS Units - Elves
+  packageVersion: 1.1
+  assetPath: Assets/Toon_RTS/Elves/models/Materials/Color/WoodElves/ELF_WoodElves_Brown.mat
+  uploadId: 372182

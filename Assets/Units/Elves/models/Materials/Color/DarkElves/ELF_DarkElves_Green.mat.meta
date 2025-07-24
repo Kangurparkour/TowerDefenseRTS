@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 826506796a0715b468daa3432165bfad
+timeCreated: 1541551448
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132685
+  packageName: Toon RTS Units - Elves
+  packageVersion: 1.1
+  assetPath: Assets/Toon_RTS/Elves/models/Materials/Color/DarkElves/ELF_DarkElves_Green.mat
+  uploadId: 372182

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ea70544ec1c61946a27329fd61a6886
+timeCreated: 1541551538
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132685
+  packageName: Toon RTS Units - Elves
+  packageVersion: 1.1
+  assetPath: Assets/Toon_RTS/Elves/models/Materials/Color/HighElves/ELF_HighElves_Purple.mat
+  uploadId: 372182

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 04b878784f7188d41a2e023d3f236505
+timeCreated: 1541363820
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132685
+  packageName: Toon RTS Units - Elves
+  packageVersion: 1.1
+  assetPath: Assets/Toon_RTS/Elves/prefabs/Wood_Elves/WoodELF_Light_Infantry.prefab
+  uploadId: 372182
