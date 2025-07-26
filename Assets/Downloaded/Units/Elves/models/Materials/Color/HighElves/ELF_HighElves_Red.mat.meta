@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d5b3d2db3e761d249bcffcd935b50670
+timeCreated: 1541551537
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132685
+  packageName: Toon RTS Units - Elves
+  packageVersion: 1.1
+  assetPath: Assets/Toon_RTS/Elves/models/Materials/Color/HighElves/ELF_HighElves_Red.mat
+  uploadId: 372182

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db550e00335d69649b8aab2572d6229e
+timeCreated: 1541551540
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132685
+  packageName: Toon RTS Units - Elves
+  packageVersion: 1.1
+  assetPath: Assets/Toon_RTS/Elves/models/Materials/Color/HighElves/ELF_HighElves_Blue.mat
+  uploadId: 372182
